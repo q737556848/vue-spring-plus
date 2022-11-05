@@ -1,21 +1,29 @@
 {
-  "name": "vue-spring-plus",
-  "version": "0.0.1",
-  "description": "vue3 spring like react spring",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "@laii/vue-spring--root",
+  "private": true,
+  "description": "a animation engine for vue3 like react-spring",
   "repository": {
     "type": "git",
-    "url": "https://github.com/q737556848/vue-spring-plus.git"
+    "url": "https://github.com/laixiaotao/vue-spring"
   },
+  "homepage": "https://github.com/laixiaotao/vue-spring#readme",
   "keywords": [
+    "animated",
+    "animation",
     "vue3",
-    "spring",
-    "react-spring",
-    "animation"
+    "vue",
+    "react",
+    "three",
+    "hooks",
+    "motion",
+    "typescript",
+    "spring"
   ],
+  "scripts": {},
+  "license": "MIT",
   "author": "laixiaotao",
-  "license": "ISC"
+  "publishConfig": {
+    "access": "public"
+  },
+  "packageManager": "pnpm@6.35.0"
 }
