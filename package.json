@@ -1,5 +1,5 @@
 {
-  "name": "@laii/vue-spring--root",
+  "name": "@vuespring/root",
   "private": true,
   "description": "a animation engine for vue3 like react-spring",
   "repository": {
@@ -19,7 +19,13 @@
     "typescript",
     "spring"
   ],
-  "scripts": {},
+  "scripts": {
+    "serve": "",
+    "build": "",
+    "publish": "",
+    "test": "",
+    "clean": ""
+  },
   "license": "MIT",
   "author": "laixiaotao",
   "publishConfig": {
